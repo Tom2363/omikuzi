@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "おみくじ.png",
+      "filename" : "おみくじ 1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "おみくじ@2x.png",
+      "filename" : "おみくじ@2x 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "おみくじ@3x.png",
+      "filename" : "おみくじ@3x 1.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
